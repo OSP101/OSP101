@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @OSP101(Ohmmy)
+- 👋 Hi, I’m @OSP101(Ohmmy) 
+- ✨ The old github username is -> https://github.com/ohmmy555
 - 👀 I’m interested in technology programming
 - 🌱 I’m currently learning College of Computing Khon Kaen University
 - 📫 How to reach me by email -> supphitan.pk@gmail.com or supphitan.p@kkumail.com
