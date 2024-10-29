@@ -16,7 +16,7 @@
   <a href="mailto:supphitan.p@kkumail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/supergoodmorningohmmy/" target="_blank">
+  <a href="https://osp101.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=world&logoColor=white" alt="world Badge"/>
   </a>
 </div>
