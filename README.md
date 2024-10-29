@@ -2,6 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY5bWc3cXpxaWRtYWtqMzVtanF0OGpxbWt4Znp6Zm0xNHB3dzJ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.webp" width="100"/>
 </div>
 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/supphitan-paksawad-763a00303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
