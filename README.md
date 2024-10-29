@@ -29,8 +29,8 @@
 ### :fire: My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSP101&layout=compact&theme=dark&hide_border=true&card_width=370" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=OSP101&theme=dark&show_icons=true&hide_border=true&card_width=370" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSP101&layout=compact&theme=dark&hide_border=true&card_width=370px" style="max-width: 100%; width: 370px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OSP101&theme=dark&show_icons=true&hide_border=true&card_width=370px" style="max-width: 100%; width: 370px;"/>
 </div>
 
 ---
