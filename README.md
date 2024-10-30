@@ -1,4 +1,7 @@
-### Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OHMMY(OSP101). I'm a Full Stack Developer
+About me:
+=================================================================================================================================
+
+Hello 👋 My name is Supphitan Pakwad. Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology. I'm currently learning web-application site reliability engineering and Full Stack Developer.
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY5bWc3cXpxaWRtYWtqMzVtanF0OGpxbWt4Znp6Zm0xNHB3dzJ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.webp" width="100"/>
@@ -27,19 +30,16 @@
   <img src="https://komarev.com/ghpvc/?username=OSP101&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
-### :fire: My Stats
+:fire: My Stats
+=================================================================================================================================
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSP101&layout=compact&theme=dark&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=OSP101&theme=dark&show_icons=true&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
 </div>
 
----
-
-### :hammer_and_wrench: Languages and Tools
-
+:hammer_and_wrench: Languages and Tools
+=================================================================================================================================
 <div>
   
   #### Languages:
@@ -95,9 +95,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" alt="googlecloud" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :writing_hand: Blog Posts
+:writing_hand: Blog Posts
+=================================================================================================================================
 
 - [ไม่อยากลบ XAMPP เก่า แต่อยากอัปเดต PHP ให้ใหม่ขึ้น](https://medium.com/@osp101/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%9A-xampp-%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95-php-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-a2bcd2af9603)
 - [วิธีติดตั้งและการใช้งาน MySQL Server และจัดการ Database ด้วย phpMyAdmin บน Docker](https://medium.com/@osp101/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-mysql-server-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3-database-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-phpmyadmin-%E0%B8%9A%E0%B8%99-docker-2e186c283eb8)
